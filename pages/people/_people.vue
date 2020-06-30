@@ -130,7 +130,7 @@ export default {
         {
           hid: 'og:url',
           name: 'og:url',
-          content: `https://www.estrenoscinehoy.com`
+          content: `https://www.estrenoscinehoy.com/es/movie/details/475430-artemis-fowl`
         },
         {
           hid: 'og:site_name',
