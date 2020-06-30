@@ -98,16 +98,6 @@ export default {
           content: defaultPosterPath
         },
         {
-          hid: 'twitter:image',
-          property: 'twitter:image',
-          content: defaultPosterPath
-        },
-        {
-          hid: 'twitter:url',
-          property: 'twitter:url',
-          content: defaultPosterPath
-        },
-        {
           hid: 'twitter:card',
           property: 'twitter:card',
           content: 'summary'
