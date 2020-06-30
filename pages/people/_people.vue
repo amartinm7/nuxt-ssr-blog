@@ -130,7 +130,7 @@ export default {
         {
           hid: 'og:url',
           name: 'og:url',
-          content: `https://www.estrenoscinehoy.com/es/movie/details/475430-artemis-fowl`
+          content: `https://amm-nuxt-ssr-blog.herokuapp.com/people/2314234324`
         },
         {
           hid: 'og:site_name',
