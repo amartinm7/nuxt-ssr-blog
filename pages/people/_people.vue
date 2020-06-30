@@ -98,16 +98,6 @@ export default {
           content: defaultPosterPath
         },
         {
-          hid: 'twitter:title',
-          property: 'twitter:title',
-          content: defaultTitle
-        },
-        {
-          hid: 'twitter:description',
-          property: 'twitter:description',
-          content: overviewDefault
-        },
-        {
           hid: 'twitter:image',
           property: 'twitter:image',
           content: defaultPosterPath
@@ -117,11 +107,41 @@ export default {
           property: 'twitter:url',
           content: defaultPosterPath
         },
-        // {
-        //   hid: 'twitter:card',
-        //   property: 'twitter:card',
-        //   content: defaultPosterPath
-        // },
+        {
+          hid: 'twitter:card',
+          property: 'twitter:card',
+          content: 'summary'
+        },
+        {
+          hid: 'twitter:site',
+          property: 'twitter:site',
+          content: 'simplytestable'
+        },
+        {
+          hid: 'twitter:title',
+          property: 'twitter:title',
+          content: 'the title goes here'
+        },
+        {
+          hid: 'twitter:description',
+          property: 'twitter:description',
+          content: 'description description description'
+        },
+        {
+          hid: 'twitter:creator',
+          property: 'twitter:creator',
+          content: 'simplytestable'
+        },
+        {
+          hid: 'twitter:image:src',
+          property: 'twitter:image:src',
+          content: defaultPosterPath
+        },
+        {
+          hid: 'twitter:domain',
+          property: 'twitter:domain',
+          content: 'simplytestable.com'
+        },
         {
           hid: 'og:type',
           name: 'og:type',
