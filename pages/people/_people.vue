@@ -100,7 +100,7 @@
           {
             hid: 'og:image',
             property: 'og:image',
-            content: defaultPosterPath
+            content: 'https://image.tmdb.org/t/p/w370_and_h556_bestv2/w58ohFF2YeEEVYRWiiMjJZ1hk9R.jpg'
           },
           {
             hid: 'og:url',
