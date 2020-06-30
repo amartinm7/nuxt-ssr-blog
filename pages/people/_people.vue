@@ -50,12 +50,12 @@ export default {
     }
     const defaultDesc =
       'Estrenos cine hoy: toda la info sobre películas, seríes, actores, actrices, TV Shows y programación. Movies, actor, actress, movies rating, news, tv networks'
-    const routePath = 'www.estrenoscinehoy'
+    const routePath = 'https://www.estrenoscinehoy'
     const language = 'es'
     const defaultTitle = title || 'EstrenosCineHoy'
     const defaultDescription = overview || defaultDesc
     const overviewDefault = overview || defaultDesc
-    const defaultPosterPath = posterPath || 'www.estrenoscinehoy.com/manifest-icon-512.png'
+    const defaultPosterPath = posterPath || 'https://image.tmdb.org/t/p/w185_and_h278_bestv2/w58ohFF2YeEEVYRWiiMjJZ1hk9R.jpg'
     return {
       title: defaultTitle,
       description: defaultDescription,
@@ -130,7 +130,7 @@ export default {
         {
           hid: 'og:url',
           name: 'og:url',
-          content: `www.estrenoscinehoy.com`
+          content: `https://www.estrenoscinehoy.com`
         },
         {
           hid: 'og:site_name',
