@@ -99,27 +99,27 @@ export default {
         },
         {
           hid: 'twitter:title',
-          name: 'twitter:title',
+          property: 'twitter:title',
           content: defaultTitle
         },
         {
           hid: 'twitter:description',
-          name: 'twitter:description',
+          property: 'twitter:description',
           content: overviewDefault
         },
         {
           hid: 'twitter:image',
-          name: 'twitter:image',
+          property: 'twitter:image',
           content: defaultPosterPath
         },
         {
           hid: 'twitter:url',
-          name: 'twitter:url',
-          content: `www.estrenoscinehoy.com`
+          property: 'twitter:url',
+          content: defaultPosterPath
         },
         {
           hid: 'twitter:card',
-          name: 'twitter:card',
+          property: 'twitter:card',
           content: defaultPosterPath
         },
         {
