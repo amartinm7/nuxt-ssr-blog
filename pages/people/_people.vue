@@ -103,16 +103,6 @@
             content: defaultPosterPath
           },
           {
-            hid: 'og:image:width',
-            property: 'og:image:width',
-            content: '200'
-          },
-          {
-            hid: 'og:image:height',
-            property: 'og:image:height',
-            content: '200'
-          },
-          {
             hid: 'og:url',
             property: 'og:url',
             content: `https://amm-nuxt-ssr-blog.herokuapp.com/people/2314234324`
