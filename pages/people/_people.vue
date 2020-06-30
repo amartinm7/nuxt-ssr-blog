@@ -117,11 +117,11 @@ export default {
           property: 'twitter:url',
           content: defaultPosterPath
         },
-        {
-          hid: 'twitter:card',
-          property: 'twitter:card',
-          content: defaultPosterPath
-        },
+        // {
+        //   hid: 'twitter:card',
+        //   property: 'twitter:card',
+        //   content: defaultPosterPath
+        // },
         {
           hid: 'og:type',
           name: 'og:type',
